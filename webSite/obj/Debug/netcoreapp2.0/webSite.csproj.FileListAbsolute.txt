@@ -1,0 +1,13 @@
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\webSite.deps.json
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\webSite.runtimeconfig.json
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\webSite.runtimeconfig.dev.json
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\webSite.dll
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\webSite.pdb
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\obj\Debug\netcoreapp2.0\webSite.csprojResolveAssemblyReference.cache
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\obj\Debug\netcoreapp2.0\webSite.csproj.CoreCompileInputs.cache
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\obj\Debug\netcoreapp2.0\webSite.AssemblyInfoInputs.cache
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\obj\Debug\netcoreapp2.0\webSite.AssemblyInfo.cs
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\obj\Debug\netcoreapp2.0\webSite.dll
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\obj\Debug\netcoreapp2.0\webSite.pdb
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\liibServicos.dll
+C:\Users\fpereira\.NET Core\Testando Interfaces\webSite\bin\Debug\netcoreapp2.0\liibServicos.pdb

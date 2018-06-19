@@ -1,0 +1,9 @@
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\obj\Debug\netstandard2.0\liibServicos.csprojResolveAssemblyReference.cache
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\obj\Debug\netstandard2.0\liibServicos.csproj.CoreCompileInputs.cache
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\obj\Debug\netstandard2.0\liibServicos.AssemblyInfoInputs.cache
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\obj\Debug\netstandard2.0\liibServicos.AssemblyInfo.cs
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\bin\Debug\netstandard2.0\liibServicos.deps.json
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\bin\Debug\netstandard2.0\liibServicos.dll
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\bin\Debug\netstandard2.0\liibServicos.pdb
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\obj\Debug\netstandard2.0\liibServicos.dll
+C:\Users\fpereira\.NET Core\Testando Interfaces\liibServicos\obj\Debug\netstandard2.0\liibServicos.pdb

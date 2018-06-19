@@ -1,0 +1,60 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Signin Template for Bootstrap</title>
+
+    <!-- Custom styles for this template -->
+    <link href="~/css/signin.css" rel="stylesheet">
+    <script src="~/lib/jquery/dist/jquery.js" ></script>
+</head>
+
+    <script>
+      
+      $(document).ready(function(){
+        $("#btnSignIn").click(function(){
+          $.post(
+            "/webPage/logar",
+            { login: { Login: $("#inputUser").val(), Senha: $("#inputPassword").val() } },
+            function(data) {
+              console.log(data);
+              if (!data.item2)
+              {
+                $("#error").addClass("alert alert-danger");
+                $("#error").html("<p>" + data.item1 + "</p>");
+              }
+              else{
+                window.location.href = "/Home/About";
+              }
+            }
+          )
+        })
+      });
+
+    </script>
+
+<body class="text-center">
+
+    <form class="form-signin">
+      <div id="error">
+        
+      </div>
+      <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+      <label for="inputUser" class="sr-only">User</label>
+      <input type="user" id="inputUser" class="form-control" placeholder="User" required="" autofocus="">
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <p class="btn btn-lg btn-primary btn-block" id="btnSignIn">Sign in</p>
+      <p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+    </form>
+  
+</body>
